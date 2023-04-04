@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+cifar-10-python.tar.gz
 build/
 develop-eggs/
 dist/
